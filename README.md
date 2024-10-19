@@ -6,14 +6,15 @@ This **Courier Management System** is a web application developed using the Stre
 
 ## Project Description
 
-The Courier Management System is designed to streamline courier operations, allowing users to log in, track packages, and manage courier details. The system ensures a smooth experience for both courier companies and their customers, offering real-time tracking and efficient management of courier services.
+The **Courier Management System** is designed to streamline courier operations, allowing users to log in, track packages, manage courier and shipment details, and oversee the overall delivery process. The system provides a smooth experience for both courier companies and customers, with real-time tracking and shipment management capabilities.
 
 ## Features
 
 - **User Login**: Secure login system to access the courier management functionalities.
 - **Package Tracking**: Track the status and location of courier packages.
 - **Courier Management**: Manage courier details, including sender and receiver information.
-- **User-Friendly Interface**: Built with Streamlit, providing a simple and intuitive user interface.
+- **Shipment Management**: Handle shipment details such as origin, destination, and shipment status.
+- **User-Friendly Interface**: Simple and intuitive interface built using Streamlit.
 
 ---
 
@@ -73,6 +74,7 @@ To set up the project locally, follow these steps:
 3. Log in using your credentials and manage courier services:
    - Track courier packages.
    - Manage courier details.
+   - Handle shipments, including shipment status, origin, and destination.
    - Log out when done.
 
 ---

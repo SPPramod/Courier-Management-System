@@ -28,7 +28,7 @@ def create_connection():
         con = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="823f2987c3b2",
+            password="#########",
             database="courier_management"
         )
         if con.is_connected():

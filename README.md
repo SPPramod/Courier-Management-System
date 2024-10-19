@@ -1,3 +1,92 @@
-# Courier-Management-System
-courier management system is a simple dbms project , developed using python for user friendly interface and mysql for database 
-![Screenshot (4)](https://github.com/user-attachments/assets/85d8af30-a723-46b9-8d9a-c9a9bebe2520)
+# Courier Management System
+
+This **Courier Management System** is a web application developed using the Streamlit Python library. It provides functionalities to manage courier services, including tracking packages, managing courier details, and user login for security. The application is deployed as `app.py` and allows users to log in and manage courier operations effectively.
+
+---
+
+## Project Description
+
+The Courier Management System is designed to streamline courier operations, allowing users to log in, track packages, and manage courier details. The system ensures a smooth experience for both courier companies and their customers, offering real-time tracking and efficient management of courier services.
+
+## Features
+
+- **User Login**: Secure login system to access the courier management functionalities.
+- **Package Tracking**: Track the status and location of courier packages.
+- **Courier Management**: Manage courier details, including sender and receiver information.
+- **User-Friendly Interface**: Built with Streamlit, providing a simple and intuitive user interface.
+
+---
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/SPPramod/Courier-Management-System.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Courier-Management-System
+    ```
+
+3. Create a virtual environment (optional but recommended):
+
+    ```bash
+    python -m venv venv
+    ```
+
+4. Activate the virtual environment:
+
+    - On Windows:
+
+        ```bash
+        venv\Scripts\activate
+        ```
+
+    - On macOS/Linux:
+
+        ```bash
+        source venv/bin/activate
+        ```
+
+5. Install Streamlit:
+
+    ```bash
+    pip install streamlit
+    ```
+
+---
+
+## Usage
+
+1. Run the application using the following command:
+
+    ```bash
+    streamlit run app.py
+    ```
+
+2. Open your web browser and navigate to `http://localhost:8501` to access the Courier Management System.
+3. Log in using your credentials and manage courier services:
+   - Track courier packages.
+   - Manage courier details.
+   - Log out when done.
+
+---
+
+## User-Interface
+
+![Courier Management](https://github.com/user-attachments/assets/85d8af30-a723-46b9-8d9a-c9a9bebe2520)  
+*Sample View of Courier Management Interface*
+
+---
+
+## Clone the Repository
+
+To clone this repository, run the following command:
+
+```bash
+git clone https://github.com/SPPramod/Courier-Management-System.git
